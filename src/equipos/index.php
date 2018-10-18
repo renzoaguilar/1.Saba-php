@@ -1,9 +1,9 @@
-<?php include 'parts/head.php'?>
-    <title>Equipos</title>
+<?php include '../parts/head2.php'?>
+    <title>Equipos | Saba Equipamientos</title>
 
-<?php $page = 'equipos'; include 'parts/header.php'?>
+<?php $page = 'equipos'; include '../parts/header2.php'?>
 
-<section class="header-brend" style="background-image:url('images/banner-equipos.jpg') ">
+<section class="header-brend" style="background-image:url('../images/banner-equipos.jpg') ">
     <div class="container">
         <h1>Equipos</h1>
         <h2>UNA EXPERIENCIA SIN IGUAL</h2>
@@ -14,25 +14,25 @@
 <section class="enlaces-servicios">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('images/Linea_Profesional.jpg')">
+            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/Linea_Profesional.jpg')">
                 <div>
                     <i class="fa fa-star" aria-hidden="true"></i>
                     <h3>Línea Profesional</h3>
                 </div>
             </div>
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('images/linea_comercial.jpg')">
+            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/linea_comercial.jpg')">
                 <div>
                 <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
                 <h3>Línea Comercial</h3>
                 </div>
             </div>
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('images/home-&-office.jpg')"> 
+            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/home-&-office.jpg')"> 
                 <div>
                     <i class="fa fa-coffee" aria-hidden="true"></i>
                     <h3>Home & Office</h3>
                 </div>
             </div>
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('images/accesorios-repuestos.jpg')">
+            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/accesorios-repuestos.jpg')">
                 <div>
                     <i class="fa fa-cogs" aria-hidden="true"></i>
                     <h3>Accesorios y Repuestos</h3>
@@ -60,4 +60,4 @@
     </div>
 </section>
 
-<?php include 'parts/footer.php'?>
+<?php include '../parts/footer2.php'?>

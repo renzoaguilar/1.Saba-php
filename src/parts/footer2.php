@@ -5,21 +5,21 @@
             <div class="row">
                 <article class="col-lg-4 col-md-12 ">
                     <div class="eqipos-item">
-                        <img src="images/showrrom.jpg" alt="">
+                        <img src="../images/showrrom.jpg" alt="">
                         <p>Descubre la gran variedad de equipos con los que contamos en nuestras instalaciones y disfruta de un interesante Showroom que te motivará en impulsar tu negocio.</p>
                         <a href="">Showroom</a>
                     </div>
                 </article>
                 <article class="col-lg-4 col-md-12 ">
                     <div class="eqipos-item">
-                        <img src="images/servicio-tecnico.jpg" alt="">
+                        <img src="../images/servicio-tecnico.jpg" alt="">
                         <p>Nuestro servicio técnico  ofrece todo tipo de soluciones y asistencia, apoyado en repuestos originales y un amplio stock para cumplir con una atención inmediata.</p>
                         <a href="">Servicio Técnico</a>
                     </div>
                 </article>
                 <article class="col-lg-4 col-md-12 ">
                     <div class="eqipos-item">
-                        <img src="images/capacitaciones.jpg" alt="">
+                        <img src="../images/capacitaciones.jpg" alt="">
                         <p>Ponemos a su disposición personal altamente calificado  y capacitado en el manejo de equipos para negocios, hoteles y cafeterías. Brindando así una asesoría integral.</p>
                         <a href="">CAPACITACIONES</a>
                     </div>
@@ -103,11 +103,11 @@
         </div>
     </footer>
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/code.js"></script>
-    <script src="plugins/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/code.js"></script>
+    <script src="../plugins/owl-carousel/js/owl.carousel.min.js"></script>
     <script>
         $('.owl-carousel').owlCarousel({
             loop:true,

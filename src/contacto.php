@@ -1,5 +1,5 @@
 <?php include 'parts/head.php'?>
-    <title>Equipos</title>
+    <title>Contacto | Saba Equipamientos</title>
 
 <?php $page = 'contactenos'; include 'parts/header.php'?>
 

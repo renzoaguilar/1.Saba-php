@@ -3,7 +3,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container">
-                <a class="navbar-brand logo-saba" href="#"><img src="http://sabaequipamientos.com/alfa/images/logo-saba.svg" alt=""></a>
+                <a class="navbar-brand logo-saba" href="#"><img src="images/logo-saba.svg" alt=""></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -24,10 +24,10 @@
                     </ul>
                     <div>
                         <ul class="list-social">
-                                <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/sabaequipamientos/"><i class="fa fa-instagram"></i></a></li>
-                                <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/sabaequipamientos/?_rdc=2&_rdr"><i class="fa fa-facebook-f"></i></a></li>
-                                <li class="list-inline-item"><a target="_blank" href="https://twitter.com/sabaequip"><i class="fa fa-twitter"></i></a></li>
-                            </ul>
+                            <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/sabaequipamientos/"><i class="fa fa-instagram"></i></a></li>
+                            <li class="list-inline-item"><a target="_blank" href="https://www.facebook.com/sabaequipamientos/?_rdc=2&_rdr"><i class="fa fa-facebook-f"></i></a></li>
+                            <li class="list-inline-item"><a target="_blank" href="https://twitter.com/sabaequip"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
