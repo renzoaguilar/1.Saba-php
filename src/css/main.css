@@ -480,6 +480,55 @@ header{
 }
 
 
+.carousel-indicators li{
+    display: inline-block;
+    height: auto;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.carousel-indicators {
+    margin-right: 0px;
+    margin-left: 0PX;
+    width: 100%;
+    position: relative;
+    padding-top: 23px;
+}
+
+.carousel-indicators2 li{
+ width: 20%;
+ padding: 0px 4px;
+}
+
+.equipos-detalle h3{
+    font-size: 23px;
+    font-weight: bold;
+    color: #E22212;
+    margin-bottom: 15px;
+}
+
+.equipos-detalle p{
+    font-size: 14px;
+}
+
+.equipos-detalle li{
+    font-size: 14px;
+}
+
+.tab-content{
+    margin-top: 80px;
+}
+
+.tabla{
+    width: 100%;
+}
+
+
+.margin-top-40{
+    margin-top: 55px;
+}
+
+
 
 
 

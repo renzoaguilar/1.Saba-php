@@ -35,10 +35,10 @@
         </nav>
         <div class="tab-content" id="nav-tabContent">
             <div class="tab-pane fade show active" id="la-cimbali" role="tabpanel" aria-labelledby="la-cimbali-tab">
-                1
+                <?php include 'parts/cimbali.php'?>
             </div>
             <div class="tab-pane fade" id="faema" role="tabpanel" aria-labelledby="faema-tab">
-                2
+                 <?php include 'parts/faema.php'?>
             </div>
             <div class="tab-pane fade" id="casadio" role="tabpanel" aria-labelledby="casadio-tab">
                 3
