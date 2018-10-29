@@ -25,7 +25,7 @@
 
 <section class="servicios-product">
     <div class="container">
-        <nav>
+        <nav class="tob02">
             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                 <a class="nav-item nav-link active" id="la-cimbali-tab" data-toggle="tab" href="#la-cimbali" role="tab" aria-controls="la-cimbali" aria-selected="true">LA CIMBALI</a>
                 <a class="nav-item nav-link" id="faema-tab" data-toggle="tab" href="#faema" role="tab" aria-controls="faema" aria-selected="false">FAEMA</a>
@@ -41,11 +41,10 @@
                  <?php include 'parts/faema.php'?>
             </div>
             <div class="tab-pane fade" id="casadio" role="tabpanel" aria-labelledby="casadio-tab">
-                3
+                <?php include 'parts/casadio.php'?>
             </div>
-            
             <div class="tab-pane fade" id="molinos" role="tabpanel" aria-labelledby="molinos-tab">
-                4
+            <?php include 'parts/molino.php'?>
             </div>
         </div>
     </div>
