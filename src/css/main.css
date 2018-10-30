@@ -539,6 +539,9 @@ header{
 }
 
 
-
+.w-65{
+    width: 65%;
+    display: inline-block !important
+}
 
 
