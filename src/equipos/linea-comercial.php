@@ -39,7 +39,7 @@
                 <?php include 'parts/cimbali2.php'?>
             </div>
             <div class="tab-pane fade" id="brema" role="tabpanel" aria-labelledby="brema-tab">
-                 brema
+                <?php include 'parts/brema.php'?>
             </div>
             <div class="tab-pane fade" id="waring" role="tabpanel" aria-labelledby="waring-tab">
                 waring
