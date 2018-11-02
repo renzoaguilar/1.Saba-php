@@ -42,13 +42,13 @@
                 <?php include 'parts/brema.php'?>
             </div>
             <div class="tab-pane fade" id="waring" role="tabpanel" aria-labelledby="waring-tab">
-                waring
+                <?php include 'parts/waring.php'?>
             </div>
             <div class="tab-pane fade" id="bras" role="tabpanel" aria-labelledby="bras-tab">
-                bras
+                <?php include 'parts/bras.php'?>
             </div>
             <div class="tab-pane fade" id="bunn" role="tabpanel" aria-labelledby="bunn-tab">
-                bunn
+                <?php include 'parts/benn.php'?>
             </div>
         </div>
     </div>
