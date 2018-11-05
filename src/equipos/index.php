@@ -14,30 +14,38 @@
 <section class="enlaces-servicios">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/Linea_Profesional.jpg')">
-                <div>
-                    <i class="fa fa-star" aria-hidden="true"></i>
-                    <h3>Línea Profesional</h3>
+            <a href="">
+                <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/Linea_Profesional.jpg')">
+                    <div>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <h3>Línea Profesional</h3>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/linea_comercial.jpg')">
-                <div>
-                <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
-                <h3>Línea Comercial</h3>
+            </a>
+            <a href="">
+                <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/linea_comercial.jpg')">
+                    <div>
+                    <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+                    <h3>Línea Comercial</h3>
+                    </div>
                 </div>
-            </div>
+            </a>
+            <a href="">
             <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/home-&-office.jpg')"> 
                 <div>
                     <i class="fa fa-coffee" aria-hidden="true"></i>
                     <h3>Home & Office</h3>
                 </div>
             </div>
+            </a>
+            <a href="">
             <div class="col-md-6 text-center banner-enlace" style="background-image: url('../images/accesorios-repuestos.jpg')">
                 <div>
                     <i class="fa fa-cogs" aria-hidden="true"></i>
                     <h3>Accesorios y Repuestos</h3>
                 </div>
             </div>
+            </a>
         </div>
     </div>  
 </section>

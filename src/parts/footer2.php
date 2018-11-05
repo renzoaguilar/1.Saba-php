@@ -110,17 +110,18 @@
     <script src="../plugins/owl-carousel/js/owl.carousel.min.js"></script>
     <script>
         $('.owl-carousel').owlCarousel({
-            loop:true,
+            loop:false,
             nav:true,
+            margin:12,
             responsive:{
                 0:{
-                    items:1
+                    items:2
                 },
                 600:{
-                    items:1
+                    items:4
                 },
                 1000:{
-                    items:1
+                    items:5
                 }
             }
         })
